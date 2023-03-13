@@ -1,0 +1,44 @@
+<a target="_blank" href="https://pnuk.co/teachable"> Powered By Teachable </a>
+<br></br>
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://zoho.pnuk.com/',
+                     topicId: 4083 };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script> 
+ 
+ 
+ <b> PNUK Recommendations - FREE Training And Support Included </b>  <p></p>
+<div class="ad-container">
+  <a href="https://z1trial.com" target="_blank">
+    <img src="https://cdn.shopify.com/s/files/1/0095/9761/6179/files/Zoho_ONE_Best_Deal_For_Your_Business_1.png?v=1678534738" alt="Advertisement" class="ad-img">
+  </a>
+</div>
+  <div class="ad-container">
+  <a href="https://pnuk.co/discourse" target="_blank" >
+    <img src="https://cdn.shopify.com/s/files/1/0095/9761/6179/files/Build_A_Dicourse_Fourm.png?v=1678533782" alt="Advertisement" class="ad-img">
+  </a>
+</div>
+
+  <div class="ad-container">
+  <a href="https://pnuk.co/buzzsprout" target="_blank" >
+    <img src="https://cdn.shopify.com/s/files/1/0095/9761/6179/files/Start_A_Podcast_WIth_Buzzsprout.png?v=1678564600" alt="Advertisement" class="ad-img">
+  </a>
+</div>
+
+  <div class="ad-container">
+  <a href="https://pnuk.co/teachable" target="_blank" >
+    <img src="https://cdn.shopify.com/s/files/1/0095/9761/6179/files/Teach_with_teahable.png?v=1678562585" alt="Advertisement" class="ad-img">
+  </a>
+</div>
+<div class="ad-container">
+  <a href="https://pnuk.co/shopify" target="_blank">
+    <img src="https://cdn.shopify.com/s/files/1/0095/9761/6179/files/Merch_Shopify_And_Printful_1.png?v=1678532637" alt="Advertisement" class="ad-img">
+  </a>
+</div>
